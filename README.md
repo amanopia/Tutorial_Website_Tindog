@@ -1,1 +1,4 @@
-# Tutorial_Website_Tindog
+This is the final web-page that i made by following along an online tutorial. The web-page was made by wire framing it first using an online platform called 'balsamiq'. Then as the development progressed, advanced CSS properties and bootstrap were also added.
+The code has been refactored to remove redundancy wherever possible and advanced CSS properties have also been used in the process.
+To make the web-page look beautiful, a contrasting colour scheme has been used. A hierarchy in the fonts has also been implemented at all places to direct the viewer's eye to the desired points on the web-page.
+To make user more aware of the platforms from where they can download the application (In case of any future additions), icons have also been included. The icons to social media channels have also been included in the footer section.
